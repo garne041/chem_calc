@@ -14,3 +14,11 @@ CRC Handbook of Chemistry and Physics
 | Combined number of 4f and 5d electrons | 'add4f5d'|
 | Absolute value of the difference of number of 4f and 5d electrons | 'sub4f5dabs'|
 | Number of electrons  | 'allelectrons' |
+| Number of valence outer shell electrons  | 'val_e' |
+| Atomic number | 'atomicnumber' |
+| Atomic weight | 'atomicweight' |
+| First ionization energy | 'ionenergy' |
+| Pauling electronegativity of most common oxidation state | 'el_neg_chi' |
+| van der Waals radius | 'R_vdw_element' |
+| Covalent radius | 'R_cov_element' | 
+
