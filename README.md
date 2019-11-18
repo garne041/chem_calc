@@ -43,14 +43,14 @@ NIST X-ray Mass Attenuation Coefficients Database for features at 662 keV and in
 >>> import chem_calc
 >>> chem_calc.chem_calc('H2O').howmany
 3.0
-}
+
 ```
 * total --  Returns the feature total for a given chemical formula.
 ```{
 >>> import chem_calc
 >>> chem_calc.chem_calc('H2O',feature='atomicweight').total
 18.014710000000001
-}
+
 ```
 
 * avg_feature -- Returns the average value of a property for a given chemical formula.
@@ -58,7 +58,7 @@ NIST X-ray Mass Attenuation Coefficients Database for features at 662 keV and in
 >>> import chem_calc
 >>> chem_calc.chem_calc('H2O',feature='atomicweight').avg_feature
 6.0049033333333339
-}
+
 ```
 
 # Installation
@@ -67,20 +67,20 @@ Use 'pip' to install from pypi:
 
 ```{
 pip install chem_calc
-}
+
 ```
 
 or 'pip' to install from github:
 
 ```{
 pip install git+https://github.com/garne041/chem_calc.git
-}
+
 ```
 or clone the package using git:
 
 ```{
 git clone https://github.com/garne041/chem_calc.git
-}
+
 ```
 
 # Requirements
