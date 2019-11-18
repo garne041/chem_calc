@@ -7,7 +7,7 @@ The 20 available properties (or features) used in this package are elemental pro
 
 CRC Handbook of Chemistry and Physics
 |Property / Feature|Tag|
-|----------|----------|
+|-------------------------------------------------------------------|-----------------------------|
 |Number of 4f electrons| '4f'|
 |Number of 5d electrons|'5d'|
 |Combined number of 4f and 5d electrons |'add4f5d'|
