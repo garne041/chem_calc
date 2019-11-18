@@ -36,3 +36,10 @@ NIST X-ray Mass Attenuation Coefficients Database for features at 662 keV and in
 |Photoelectric absorption |'pe_abs'|
 |Coherent attenutation coefficient |'atten_co'|
 |Incoherent attenutation coefficient |'atten_inco'|
+
+# Methods
+* how_many -- Returns the number of atoms in a given chemical formula.
+* total --  Returns the feature total for a given chemical formula.
+* min_feature -- Returns the feature minimum for a given chemical formula.
+* max_feature -- Returns the feature maximum for a given chemical formula.
+* avg_feature -- Returns the feature average for a given chemical formula.
