@@ -6,24 +6,24 @@ The 20 available properties (or features) used in this package are elemental pro
 
 
 CRC Handbook of Chemistry and Physics
-|Property / Feature|Tag|
+| Property / Feature | Tag |
 |-------------------------------------------------------------------|-----------------------------|
-|Number of 4f electrons| '4f'|
-|Number of 5d electrons|'5d'|
-|Combined number of 4f and 5d electrons |'add4f5d'|
-|Absolute value of the difference of number of 4f and 5d electrons | 'sub4f5dabs'|
-|Number of electrons| 'allelectrons'|
-|Number of valence outer shell electrons| 'val_e'|
-|Atomic number | 'atomicnumber'|
-|Atomic weight |'atomicweight'|
-|First ionization energy | 'ionenergy'|
-|Pauling electronegativity of most common oxidation state | 'el_neg_chi'|
-|van der Waals radius |'R_vdw_element'|
-|Covalent radius | 'R_cov_element'| 
-|Atomic number to mass number ratio | 'zaratio'|
-|Excitation energy| 'ex_energy'|
-|Period| 'period'|
-|Elemental density | 'density'|
+| Number of 4f electrons  | '4f'|
+| Number of 5d electrons  | '5d'|
+| Combined number of 4f and 5d electrons | 'add4f5d'|
+| Absolute value of the difference of number of 4f and 5d electrons | 'sub4f5dabs'|
+| Number of electrons  | 'allelectrons' |
+| Number of valence outer shell electrons  | 'val_e' |
+| Atomic number | 'atomicnumber' |
+| Atomic weight | 'atomicweight' |
+| First ionization energy | 'ionenergy' |
+| Pauling electronegativity of most common oxidation state | 'el_neg_chi' |
+| van der Waals radius | 'R_vdw_element' |
+| Covalent radius | 'R_cov_element' | 
+| Atomic number to mass number ratio | 'zaratio' |
+| Excitation energy  | 'ex_energy' |
+| Period  | 'period' |
+| Elemental density | 'density' |
 
 Features from the CRC Handbook of Chemistry and Physics that are currently available are number of 4f electrons ('4f'), number of 5d electrons ('5d'), combined number of 4f and 5d electrons ('add4f5d'), absolute value of the difference of number of 4f and 5d electrons ('sub4f5dabs'), number of electrons('allelectrons'), number of valence outer shell electrons ('val_e'), atomic number ('atomicnumber'), atomic weight ('atomicweight'), first ionization energy ('ionenergy'), Pauling electronegativity of most common oxidation state ('el_neg_chi'), van der Waals radius ('R_vdw_element'), covalent radius ('R_cov_element'), atomic number to mass number ratio ('zaratio'), excitation energy ('ex_energy'), period ('period'), and elemental density ('density').
 
