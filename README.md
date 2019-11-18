@@ -21,4 +21,7 @@ CRC Handbook of Chemistry and Physics
 | Pauling electronegativity of most common oxidation state | 'el_neg_chi' |
 | van der Waals radius | 'R_vdw_element' |
 | Covalent radius | 'R_cov_element' | 
-
+| Atomic number to mass number ratio | 'zaratio' |
+| Excitation energy  | 'ex_energy' |
+| Period  | 'period' |
+| Elemental density | 'density' |
