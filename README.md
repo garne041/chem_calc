@@ -1,9 +1,8 @@
 # chem_calc
-The module chem_calc calculates chemical and physical properties based on the stoichometry of a chemical compound.
+The module chem_calc calculates chemical and physical properties based on the stoichometry of a chemical compound. The 20 available properties (or features) used in this package are elemental properties from the CRC Handbook of Chemistry and Physics as well as the NIST X-ray Mass Attenuation Coefficients Database.
+
 
 # Available properties
-The 20 available properties (or features) used in this package are elemental properties from the CRC Handbook of Chemistry and Physics as well as the NIST X-ray Mass Attenuation Coefficients Database.
-
 
 CRC Handbook of Chemistry and Physics
 
