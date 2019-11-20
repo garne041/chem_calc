@@ -88,5 +88,5 @@ git clone https://github.com/garne041/chem_calc.git
 Requires numpy, pickle, and pandas
 
 # License
-The original code that this project is based on https://repl.it/@Supakri2680/Molecular-Mass-Calculator2. In keeping with this mentality, all code is released under the MIT.
+The original tokenization scheme that this project uses is based on https://repl.it/@Supakri2680/Molecular-Mass-Calculator2. In keeping with this mentality, all code is released under the MIT.
 
